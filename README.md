@@ -11,22 +11,3 @@ React.js: Frontend framework for building interactive user interfaces.
 CSS3: Cascading Style Sheets for styling and layout design.
 Ant Design: UI library for React with a wide range of components for rapid development.
 PapaParse: CSV parsing and processing library for importing and exporting financial data.
-Getting Started
-To get started with Budget Bliss, follow these steps:
-
-Clone the repository: git clone https://github.com/your-username/budget-bliss.git
-Navigate to the project directory: cd budget-bliss
-Install dependencies: npm install
-Start the development server: npm start
-Contributing
-Contributions are welcome! If you'd like to contribute to Budget Bliss, please follow these guidelines:
-
-Fork the repository and create your branch: git checkout -b feature/my-feature
-Make your changes and commit them: git commit -am 'Add my feature'
-Push to your branch: git push origin feature/my-feature
-Submit a pull request detailing your changes.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Thanks to the creators of React.js, Ant Design, and PapaParse for their amazing tools and libraries.
